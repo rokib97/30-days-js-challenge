@@ -1,7 +1,7 @@
 ## 30 Days of JavaScript Challenge
 
 - [x] [13-07-24] Day 1: [Variables and Data Types](https://github.com/rokib97/30-days-js-challenge/tree/main/data-type-and-variable)
-- [ ] Day 2:
+- [x] [14-07-24] Day 2: [Operators](https://github.com/rokib97/30-days-js-challenge/tree/main/operators)
 - [ ] Day 3:
 - [ ] Day 4:
 - [ ] Day 5:

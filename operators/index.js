@@ -41,4 +41,4 @@ let value = 10;
 const ternaryResult = value > 0 ? "Positive" : "Negative";
 const ternaryResul2 = value > 0 ? "Positive" : value < 0 ? "negative" : "zero"; //nested ternary
 // console.log(ternaryResult);
-console.log(ternaryResul2);
+// console.log(ternaryResul2);
