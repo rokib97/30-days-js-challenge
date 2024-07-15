@@ -2,7 +2,7 @@
 
 - [x] [13-07-24] Day 1: [Variables and Data Types](https://github.com/rokib97/30-days-js-challenge/tree/main/data-type-and-variable)
 - [x] [14-07-24] Day 2: [Operators](https://github.com/rokib97/30-days-js-challenge/tree/main/operators)
-- [15-07-24] Day 3:[Control Structures](https://github.com/rokib97/30-days-js-challenge/tree/main/control-structure)
+- [x] [15-07-24] Day 3:[Control Structures](https://github.com/rokib97/30-days-js-challenge/tree/main/control-structure)
 - [ ] Day 4:
 - [ ] Day 5:
 - [ ] Day 6:
